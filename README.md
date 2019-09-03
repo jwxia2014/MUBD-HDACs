@@ -8,5 +8,7 @@
 * Xia, J.; Tilahun, E. L.; Kebede, E. H.; Reid, T. E.; Zhang, L.; Wang, X. S., Comparative modeling and benchmarking data sets for human histone deacetylases and sirtuin families. J Chem Inf Model 2015, 55, 374-88.
 * Xia, J.; Jin, H.; Liu, Z.; Zhang, L.; Wang, X. S., An unbiased method to build benchmarking sets for ligand-based virtual screening and its application to GPCRs. J Chem Inf Model 2014, 54, 1433-50.
 
-4. Any question or feedback is welcome. Please send emails to 
+4. Usage: download all the files and unzip them. 
+
+5. Any question or feedback is welcome. Please send emails to 
    jie.william.xia@hotmail.com (Dr. Jie Xia) or x.simon.wang@gmail.com (Dr. Simon Wang)
